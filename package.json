@@ -4,9 +4,10 @@
   "description": "Decodification Tool",
   "main": "HCDecryptor.js",
   "scripts": {
+  "start": "node HCDrill.js -bt 1990130961:AAHRWcAM5h7e_Y88kAaBDga8V7_M-s51NzI",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "PANCHO7532",
+  "author": "AdulAlhy",
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "fast-xml-parser": "^3.17.5",
